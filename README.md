@@ -26,14 +26,14 @@ THEN I find a concise, descriptive title
 -I replaced less semantic tags such as ```<div>``` with ```<section>```tags. This will make it easier for browsers to read. I also added ```<nav>``` and ```<img>``` tags where possible.
 
 -I also improved the spacing and indentation in the HTML code to better reflect the different parts of the webpage 
-![Screenshot](Code_Refactor\assets\Content_Section.png)
+![image](https://user-images.githubusercontent.com/75188059/102554313-64207000-4079-11eb-8242-a8064f83f3cc.png)
 
 -There were some instances where classes and id's were refined slightly to reflect the improvements made on the stylesheet.
 
 -Also worth noting, the original webpage had a nav link (titled "Search Engine Optimization) that wasn't functional which I was able to repair by fixing issues with the id.
 
 ## On the stylesheet:
--I was able to condense the stylesheet by consolidating many of the redundant parts. This was especially obvious in the styles for the sidebox of the webpage. ![Screenshot](Code_Refactor\assets\Aside.png)
+-I was able to condense the stylesheet by consolidating many of the redundant parts. This was especially obvious in the styles for the sidebox of the webpage. ![image](https://user-images.githubusercontent.com/75188059/102554429-b2357380-4079-11eb-98bb-b6a753423fca.png)
 
 ### Overall, after my edits, this webpage should be more readable with simpler HTML and CSS code!
 
