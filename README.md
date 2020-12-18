@@ -37,4 +37,4 @@ THEN I find a concise, descriptive title
 
 ### Overall, after my edits, this webpage should be more readable with simpler HTML and CSS code!
 
-### Note: This website is live! The URL is:
+### Note: This website is live! The URL is: https://rnick1.github.io/Code_Refactor/
